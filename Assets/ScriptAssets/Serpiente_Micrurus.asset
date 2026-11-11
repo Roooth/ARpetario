@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4f2f31a55f3d2d1429398392ed964c00, type: 3}
+  m_Name: Serpiente_Micrurus
+  m_EditorClassIdentifier: 
+  id: S_Micrurus
+  nombre: Serpiente Micrurus
+  nombreCientifico: Micrurus laticollaris
+  descripcion: "Se distingue de M. browni y M. distans por la presencia de 3 bandas
+    negras separadas por dos bandas blancas. Sonora michoacanensis puede presentar
+    una coloraci\xF3n similar, pero presenta una escama loreal (ausente en Micrurus).
+    Se distingue de Lampropeltis polyzona por la presencia de bandas blancas\nNocturna.
+    M\xE1s activa durante la temporada de lluvias. "
+  imagen: {fileID: 21300000, guid: 57f79092eeca06940944ca20869111f1, type: 3}
+  prefab: {fileID: 7695645764079210881, guid: 3033797b9c7e18a4d949ed9f5053b438, type: 3}

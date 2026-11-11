@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4f2f31a55f3d2d1429398392ed964c00, type: 3}
+  m_Name: Vivora_Cascabel
+  m_EditorClassIdentifier: 
+  id: S_Cascabel
+  nombre: 'Vibora Cascabel '
+  nombreCientifico: Crotalus scutulatus
+  descripcion: "Crotalus scutulatus es una especie de vip\xE9rido venenoso de la
+    subfamilia Crotalinae. Se encuentra en los desiertos del Suroeste de Estados
+    Unidos y del centro de M\xE9xico. Tal vez sea m\xE1s conocida por un potente
+    veneno neurot\xF3xico. Est\xE1 considerada como la serpiente venenosa m\xE1s
+    peligrosa de todo M\xE9xico"
+  imagen: {fileID: 21300000, guid: 81c36ac93b39f54479f4b9f7829d6420, type: 3}
+  prefab: {fileID: 4161442276222517804, guid: fa44d9bcd47ad9e46a0d7ac04440fc5a, type: 3}

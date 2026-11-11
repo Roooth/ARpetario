@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5726039231357731525
+  m_GuidHigh: 7145934328817120926
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5244414935819848897
+      m_GuidHigh: 7553222614766542737
+    m_SerializedTextureGuid:
+      m_GuidLow: 12476352849235681384
+      m_GuidHigh: 1189224193320985401
+    m_Size: {x: 0.05, y: 0.05}
+    m_SpecifySize: 1
+    m_Name: S_Lira
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5407672195077982617
+      m_GuidHigh: 3350936516779336835
+    m_SerializedTextureGuid:
+      m_GuidLow: 15173761087708526894
+      m_GuidHigh: 14275925794538131752
+    m_Size: {x: 0.05, y: 0.05}
+    m_SpecifySize: 1
+    m_Name: S_Cascabel
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4941450103656960546
+      m_GuidHigh: 8647756540712035233
+    m_SerializedTextureGuid:
+      m_GuidLow: 15615362115461639191
+      m_GuidHigh: 8214530902789512281
+    m_Size: {x: 0.05, y: 0.05}
+    m_SpecifySize: 1
+    m_Name: A_Gerronotus
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4840064806081995148
+      m_GuidHigh: 17198909519078859676
+    m_SerializedTextureGuid:
+      m_GuidLow: 15534134673537159861
+      m_GuidHigh: 9799282464085008633
+    m_Size: {x: 0.05, y: 0.05}
+    m_SpecifySize: 1
+    m_Name: S_Micrurus
+    m_Texture: {fileID: 0}

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4f2f31a55f3d2d1429398392ed964c00, type: 3}
+  m_Name: Serpiente_Lira
+  m_EditorClassIdentifier: 
+  id: S_Lira
+  nombre: Serpiente Lira
+  nombreCientifico: Trimorphodon biscutatus
+  descripcion: "Se distingue de Trimorphodon paucimaculatus por la coloraci\xF3n
+    de los anillos dorsales (gris en T. biscutatus vs. naranja en T. paucimaculatus)
+    y de T. tau por la ausencia de un anillo claro en la parte posterior de la cabeza
+    (vs. presente en T. tau)\nParcialmente arb\xF3rea. Com\xFAn en todo el estado,
+    Se puede observar durante todo el a\xF1o, pero es m\xE1s com\xFAn en las noches
+    durante la \xE9poca de lluvias. Se alimentan de todo tipo de vertebrados, aves,
+    murci\xE9lagos, roedores, lagartos, etc. Ov\xEDparas. Depositan entre 7 y 21
+    huevos durante la temporada de secas, los cuales tardan entre 79 y 106 d\xEDas
+    en eclosionar"
+  imagen: {fileID: 21300000, guid: 7e7d83e76daa03345ae69dd2bae256e0, type: 3}
+  prefab: {fileID: 5352798755385190521, guid: 4b2b42019dec0f646a80407d4b75de7e, type: 3}
